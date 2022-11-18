@@ -17,9 +17,9 @@ for (let i = 1; i <= 151; i++) {
   container.appendChild(pokemon);
 }
 
-consoleText(['Welcome.', 'World of Pokemons', 'Made with Love.'], 'text', [
+consoleText(['Welcome.', 'Pokemon Evolutions.', 'Made with Love.'], 'text', [
   'deepskyblue',
-  'lime',
+  'orange',
   'deeppink',
 ]);
 
